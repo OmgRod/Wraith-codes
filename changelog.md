@@ -1,3 +1,6 @@
+# 1.3.1
+- changed offline tag to online to not confuse people
+  
 # 1.3.0
 - Added auto code Repo (My life and geode mods life is so much easier now)
 - Added a secret codes mode so you don't know the codes 
